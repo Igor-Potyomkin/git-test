@@ -1,6 +1,6 @@
 package com.testgit.gitdemo;
 
-public class teste32 {
+public class test4 {
    private Integer one;
    private Integer second;
    private Integer third;
